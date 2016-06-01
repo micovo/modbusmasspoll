@@ -1,7 +1,7 @@
 # Modbus MassPoll
 Simple tool for debugging Modbus networks that are made of the multiple slave devices of the same type
 
-![Modbus MassPoll screenshot](https://github.com/micovo/modbusmasspoll/blob/master/doc/screenshot.png "Modbus MassPoll screenshot")
+<img src="https://github.com/micovo/modbusmasspoll/blob/master/doc/screenshot.png" width="600" height="362" />
 
 The modbus core is based on NModbus
 https://github.com/mesta1/nmodbus
